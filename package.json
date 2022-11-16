@@ -1,0 +1,25 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.1.0",
+    "react": "^18.2.0",
+    "tailwind": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinSmall/Reation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AustinSmall/Reation/issues"
+  },
+  "homepage": "https://github.com/AustinSmall/Reation#readme",
+  "description": ""
+}
